@@ -17,6 +17,6 @@ int main()
 		silnia *= i;
 	}
 	cout << "wartosc nieujemna liczby n wynosi: " << liczba_b << endl;
-	cout << "n! liczbyt wynosi: " << silnia;
+	cout << "n! liczbyt wynosi ilkestam: " << silnia;
 
 }
